@@ -1,0 +1,8 @@
+E:\原电脑高中\文件\C\网络编程\实验2\提交\Server\TCP_Server\bin\Debug\TCP_Server.exe
+E:\原电脑高中\文件\C\网络编程\实验2\提交\Server\TCP_Server\bin\Debug\TCP_Server.pdb
+E:\原电脑高中\文件\C\网络编程\实验2\提交\Server\TCP_Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+E:\原电脑高中\文件\C\网络编程\实验2\提交\Server\TCP_Server\obj\x86\Debug\TCP_Server.Form1.resources
+E:\原电脑高中\文件\C\网络编程\实验2\提交\Server\TCP_Server\obj\x86\Debug\TCP_Server.Properties.Resources.resources
+E:\原电脑高中\文件\C\网络编程\实验2\提交\Server\TCP_Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+E:\原电脑高中\文件\C\网络编程\实验2\提交\Server\TCP_Server\obj\x86\Debug\TCP_Server.exe
+E:\原电脑高中\文件\C\网络编程\实验2\提交\Server\TCP_Server\obj\x86\Debug\TCP_Server.pdb
