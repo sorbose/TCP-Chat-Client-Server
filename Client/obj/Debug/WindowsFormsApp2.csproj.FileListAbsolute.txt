@@ -1,0 +1,9 @@
+E:\原电脑高中\文件\C\网络编程\实验2\My\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\原电脑高中\文件\C\网络编程\实验2\My\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\原电脑高中\文件\C\网络编程\实验2\My\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\原电脑高中\文件\C\网络编程\实验2\My\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\原电脑高中\文件\C\网络编程\实验2\My\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Client.resources
+E:\原电脑高中\文件\C\网络编程\实验2\My\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\原电脑高中\文件\C\网络编程\实验2\My\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\原电脑高中\文件\C\网络编程\实验2\My\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\原电脑高中\文件\C\网络编程\实验2\My\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
